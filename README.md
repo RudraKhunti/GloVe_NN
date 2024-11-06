@@ -1,5 +1,7 @@
 # GRU with GloVe Embeddings for NLP
-<a target="_blank" href="https://colab.research.google.com/github/RudraKhunti/GloVe_NN/blob/main/GRU_GloVe.ipynb"/>
+<a target="_blank" href="https://colab.research.google.com/github/RudraKhunti/GloVe_NN/blob/main/GRU_GloVe.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 This project demonstrates how to use **GloVe embeddings** with a **GRU (Gated Recurrent Unit)** model for natural language processing tasks. It includes steps to download, prepare, and use the GloVe pre-trained embeddings for word representation in TensorFlow models.
 
 ## Table of Contents
